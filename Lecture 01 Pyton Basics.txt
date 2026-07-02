@@ -1,0 +1,144 @@
+
+============================================================== Lecture 01 Python Basics ===============================================================================
+
+
+“Announcement :- Har roz all topics ke easy verson ko sikhenge easy question ko solve karenge then next day usi topic ke hard verson ko sikhenge or uske question ko solve karenge is Tarah all topic ko proper complete karenge. Har roz jaise hamara topic complete hoga mein aapko Task Asign karunga, Aap use solve kar ke apne github par upload krenge.. 
+
+Next day hum only question solve karenge isse aapko topic ek dam clear ho jayega, And aapka theory ke alawa practical bhi complete ho jayega.
+
+means hum one day theory cover karenge mein uspar se appko task assign karuga, next day hum vo sare questions ko solve karenge.
+
+Note : Task thoda late solve hoga to bhi chalega but completed task GitHub par add karna mat bhulna, vaha task update karne se aapka consistency 4X badh jayega, and aap apna learning bhi track kar payenge."
+
+
+**Introduction the Python language :**
+
+
+
+“Python ek programming language hai. Jaise market mein bahut saari programming languages available hain, sabki apni-apni features aur capabilities hoti hain.”
+
+
+
+**यहाँ प्रसिद्ध programming languages की सूची दी गई है :**
+
+
+
+Python
+
+Java
+
+JavaScript
+
+C++
+
+Ruby
+
+C#
+
+PHP
+
+Go
+
+Swift
+
+Kotlin
+
+Rust
+
+**Kitne language available hai market mein**
+
+
+
+* 1000+ programming languages exist kar chuki hain history mein
+* Unmein se 200–300 languages actively Log jante hain
+* Aur practical use mein (industry mein) lagbhag 20–50 languages zyada popular hain
+
+
+
+**Q1. What is the meaning of the Python language ?**
+
+
+
+Ans - Python is a computer programming language used to create a program.
+
+
+
+**Q2. who is the founded the python language and when ?**
+
+
+
+Ans - Python was created by Guido van Rossum in 1989, and the first public release of Python (version 0.9.0) was made in 1991.
+
+
+
+
+**Common uses of Python**
+
+
+* Web development
+* Artificial Intelligence (AI)
+* Machine Learning
+* Data Science
+* Automation and scripting
+* Data Analytics
+* Cybersecurity tools
+
+
+
+**Sabse pehle hum Python ko Python ki official website se install karte hain. install the python using below link and agar aapko kisi bhi Tarah ka muskil aata hai to aap setup video dekhen.**
+
+
+
+\*\*Python link :-
+
+Python setup :-\*\*
+
+
+**We have Multiple applications for run our python code,**
+
+
+
+Some popular applications are:
+
+
+
+* IDLE
+* PyCharm
+* Visual Studio Code
+* Jupyter Notebook
+* Spyder
+* Google Colab
+* Android Studio
+
+
+
+**VS Code beginner ke liye ek bahut easy aur powerful code editor hai. Isliye hum apni coding journey ki shuruaat Visual Studio Code ko install karke kar sakte hain.
+vs code ka link niche diya hua hai aap install kar lijiye agar install karne mein problem aaye to nich setup video Dekhein.**
+
+
+
+\*\*Vs code app link :-
+
+
+VS code setup :-
+
+yahi par hum day 1 complete karte hai, task 1 install the python and vs code using the link, if you face any issue then watch the setup video and complete your task.
+you face issue after this all then you can massage in our community our community link available in description.\*\*
+
+
+
+
+
+**Lecture 2 ka video 2 din baad aane wala hai to Instagram par follow kar ke notification on kar lena lecture 2 aate hai story par lag jayega jisse aapko pata chal jaye ki lecture 2 aa gyaa hai.**
+
+
+
+Task : Today no task just understand deeply today revised task.
+
+
+
+============================================================== Lecture 01 Python Basics ===============================================================================
+
+
+
+
