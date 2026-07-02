@@ -1,45 +1,51 @@
-# Python-Course
+# 🚀 Daily Learning Roadmap
 
-🚀 Daily Learning Roadmap
+## 📖 How We'll Learn
 
-Welcome to this repository! 🎉
-Yahan hum step-by-step har topic ko theory aur practical dono ke through complete karenge.
+### 🟢 Day 1 — Learn + Task
 
-📚 Learning Plan
-🗓️ Day 1 – Theory + Task
-Topic ka Easy Version samjhenge.
-Easy level ke questions solve karenge.
-Usi topic ka Hard Version bhi seekhenge.
-Hard level ke questions discuss aur solve karenge.
-Topic complete hone ke baad ek Task assign kiya jayega.
-🗓️ Day 2 – Practice Day
-Previous topic ke saare important questions solve karenge.
-Doubts clear karenge.
-Concept ko aur strong banayenge.
-Theory ke saath practical understanding bhi complete hogi.
+* Learn the **Easy Version** of the topic.
+* Solve easy-level questions.
+* Learn the **Hard Version** of the same topic.
+* Solve hard-level questions.
+* Get a **Task** based on the topic.
 
-Is process ko follow karke hum har topic ko proper aur deeply complete karenge. 💯
+### 🔵 Day 2 — Practice
 
-📝 Task Submission
+* Solve all important questions from the previous topic.
+* Clear doubts.
+* Strengthen concepts through practice.
 
-Har topic ke baad aapko ek task diya jayega.
+---
 
-✅ Task complete karke apne GitHub Repository par upload zaroor karein.
+# 📌 Task Submission
 
-Note: Agar task thoda late complete hota hai to koi problem nahi hai, lekin GitHub par upload karna mat bhooliye.
+* Complete the assigned task.
+* Upload it to your **GitHub Repository**.
+* Try to keep your repository updated regularly.
 
-🌟 Why Upload on GitHub?
-📈 Consistency build hoti hai.
-💼 Strong portfolio tayar hota hai.
-📊 Apni learning ko easily track kar sakte hain.
-🚀 Practical experience improve hota hai.
-💻 Coding habit aur discipline develop hota hai.
-🎯 Goal
+> **Note:** Late submission is okay, but don't forget to upload your completed task to GitHub.
 
-Theory + Practice + Daily Questions + GitHub Tasks = Complete Learning
+---
 
-Har din thoda-thoda progress karke hum saare topics ko confidence ke saath master karenge. 🔥
+# 🌟 Why Upload on GitHub?
 
-Happy Coding! ❤️
+* 📈 Build Consistency
+* 💼 Create Your Portfolio
+* 📊 Track Your Learning
+* 🚀 Improve Practical Skills
+* 💻 Develop Coding Discipline
 
-Keep Learning • Keep Building • Keep Uploadi
+---
+
+# 🎯 Our Goal
+
+### Learn → Practice → Build → Upload → Repeat 🔥
+
+**Theory + Practice + GitHub = Complete Learning Journey 🚀**
+
+---
+
+## ❤️ Happy Coding!
+
+### Keep Learning • Keep Building • Keep Growing
